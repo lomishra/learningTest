@@ -25,6 +25,7 @@ public class SortingClass {
             }
 
         }
+        System.out.println("");
         System.out.println("After sorting ");
         for(int k :lst){
             System.out.print(k +" ");

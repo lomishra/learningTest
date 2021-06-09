@@ -18,7 +18,7 @@ public class AdHelper {
                 }
             }
 
-            System.out.println("Producer is produce: " + ++sum);
+            System.out.println("Producer is produced: " + ++sum);
             try {
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
